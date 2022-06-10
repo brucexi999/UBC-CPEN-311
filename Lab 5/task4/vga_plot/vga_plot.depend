@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649382620 source:c:\users\bruce\documents\github\lab-5-who-put-a-system-on-my-chip-brucexi999\task4\vga_plot\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649381528 source:c:\users\bruce\documents\github\lab-5-who-put-a-system-on-my-chip-brucexi999\task4\vga_plot.c
+	<stddef.h>
+
