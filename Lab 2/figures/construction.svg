@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2718" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="Construction Triangle Reuleaux.svg" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 530.7 511"
+	 style="enable-background:new 0 0 530.7 511;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D4D4D4;stroke:#0000FF;stroke-width:3.5433;}
+	.st1{fill:none;stroke:#000000;}
+	.st2{fill:none;stroke:#000000;stroke-dasharray:11.8201,11.8201;}
+	.st3{fill:none;stroke:#000000;stroke-dasharray:11.8249,11.8249;}
+	.st4{fill:none;stroke:#000000;stroke-dasharray:11.8057,11.8057;}
+	.st5{fill:none;stroke:#0000FF;stroke-width:3.554;}
+	.st6{fill:none;stroke:#FF0000;stroke-width:3.554;}
+	.st7{fill:none;stroke:#008000;stroke-width:3.554;}
+</style>
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective2724" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" guidetolerance="5" id="base" inkscape:current-layer="layer1" inkscape:cx="607.40618" inkscape:cy="764.09947" inkscape:document-units="mm" inkscape:guide-bbox="true" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1005" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="0.5" pagecolor="#ffffff" showgrid="false" showguides="true">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(285.23624,-35.071592)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<path id="path3553" class="st0" d="M-20.9,211.7c-52.2,30.2-87.3,86.7-87.3,151.4c25.6,15,55.6,23.5,87.6,23.5
+		c31.7,0,61.7-8.5,87.6-23.5l0,0C66.5,298.7,31.3,241.9-20.9,211.7z"/>
+	<g id="path3589">
+		<g>
+			<polyline class="st1" points="-107.3,360.7 -108.8,363.1 -105.7,363.1 			"/>
+			<line class="st2" x1="-99.9" y1="363.1" x2="60.7" y2="363.5"/>
+			<polyline class="st1" points="63.4,363.5 66.5,363.5 64.9,361 			"/>
+			<line class="st3" x1="62.2" y1="355.8" x2="-18.1" y2="216.9"/>
+			<polyline class="st1" points="-19.6,214.2 -21.2,211.7 -22.7,214.2 			"/>
+			<line class="st4" x1="-25.4" y1="219.4" x2="-105.7" y2="358"/>
+		</g>
+	</g>
+	
+		<path id="path2750" sodipodi:cx="425.73569" sodipodi:cy="698.96478" sodipodi:rx="355.40839" sodipodi:ry="355.40839" sodipodi:type="arc" class="st5" d="
+		M241.4,363.1c0,96.8-78.5,174.9-174.9,174.9c-96.8,0-174.9-78.5-174.9-174.9l0,0c0-96.8,78.5-174.9,174.9-174.9
+		S241.4,266.7,241.4,363.1L241.4,363.1z"/>
+	
+		<path id="path3538" sodipodi:cx="425.73569" sodipodi:cy="698.96478" sodipodi:rx="355.40839" sodipodi:ry="355.40839" sodipodi:type="arc" class="st6" d="
+		M154.1,211.7c0,96.8-78.5,174.9-174.9,174.9c-96.8,0-174.9-78.5-174.9-174.9l0,0c0-96.8,78.5-174.9,174.9-174.9
+		C75.6,36.8,154.1,115.3,154.1,211.7L154.1,211.7z"/>
+	
+		<path id="path3540" sodipodi:cx="425.73569" sodipodi:cy="698.96478" sodipodi:rx="355.40839" sodipodi:ry="355.40839" sodipodi:type="arc" class="st7" d="
+		M66.5,363.1c0,96.8-78.5,174.9-174.9,174.9c-96.8,0-174.9-78.5-174.9-174.9l0,0c0-96.8,78.5-174.9,174.9-174.9
+		S66.5,266.7,66.5,363.1L66.5,363.1z"/>
+</g>
+</svg>
