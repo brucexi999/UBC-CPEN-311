@@ -3,7 +3,7 @@
 ## Contents
 
 * [Background](#background)
-  * [Q16.16 fixed point](#q16-fixed-point)
+  * [Q16.16 fixed point](#q16.q16-fixed-point)
   * [Debugging advice](#debugging-advice)
 * [Design](#design)
   * [Task 1: Tutorials](#task-1-tutorials)
@@ -15,7 +15,7 @@
 <!--  * [Task 7 (BONUS): Matrix inverse](#task-7-bonus-matrix-inverse) -->
   * [Memory map](#memory-map)
   * [Common problems](#common-problems)
-* [Deliverables](#deliverables)
+* [Deliverables](#deliverables-and-evaluation)
 
 
 ## Background
