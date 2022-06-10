@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-224.5 -16.5 357 247" width="357pt" height="247pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2018-01-06 23:59:11 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>design hierarchy</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 32 80 L 132 80 L 132 123.2 C 102 117.8 62 139.4 32 128.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(37 97.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="1.6464844" y="11" textLength="86.70703">statemachine.sv</tspan>
+      </text>
+      <path d="M -224 80 L -148 80 L -148 123.2 C -170.8 117.8 -201.2 139.4 -224 128.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-219 97.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="1.977539" y="11" textLength="62.04492">datapath.sv</tspan>
+      </text>
+      <path d="M -80 -16 L -8 -16 L -8 27.2 C -29.6 21.8 -58.4 43.4 -80 32.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-75 1.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="11.989258" y="11" textLength="38.021484">lab1.sv</tspan>
+      </text>
+      <path d="M -224 176 L -124 176 L -124 219.2 C -154 213.8 -194 235.4 -224 224.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-219 193.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="14.317383" y="11" textLength="61.365234">dealcard.sv</tspan>
+      </text>
+      <path d="M -96 176 L 4 176 L 4 219.2 C -26 213.8 -66 235.4 -96 224.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-91 193.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="9.313477" y="11" textLength="71.37305">scorehand.sv</tspan>
+      </text>
+      <path d="M 32 176 L 132 176 L 132 219.2 C 102 213.8 62 235.4 32 224.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(37 193.3)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="500" x="12.65039" y="11" textLength="64.69922">card7seg.sv</tspan>
+      </text>
+      <path d="M -60.2175 35.326248 C -60.2175 35.326248 -186 80 -186 80" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -24.75612 27.18379 C -24.75612 27.18379 84.49609 83 82 80" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -194.0383 129.82518 C -194.0383 129.82518 -194.00195 176 -194.00195 176" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -173.73326 124.82357 C -173.73326 124.82357 57.496094 178 57 176" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -186 127.925 C -188 128 -68.50391 178 -71 176" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
