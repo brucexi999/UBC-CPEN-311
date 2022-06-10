@@ -1,5 +1,7 @@
 # Lab 3: Memories from Room 40
 
+Note: For modules from task1 to task3, I designed tri-state drivers as the arbitration unit when different buses are trying to use the same memory bus (e.g., addr, wrdata, or wren), this is against the assignment rules. In task4 and task5, I built multiplexers as the arbitration unit instead. The select signals are asserted by local level FSMs rather than customed arbiters. 
+
 ## Contents
 
 * [Background](#background)
