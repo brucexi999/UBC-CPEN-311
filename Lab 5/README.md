@@ -49,7 +49,7 @@ For the purposes of this lab, conversion from Q16.16 to an integer can be done b
 
 ### Task 1: Tutorials and simulating the Nios II system
 
-A tutorial task, getting to know how to make SoC and custom IPs. One thing to notice is that the generated system’s RTL can still be simulated by ModelSim just like any other RTLs. This is a crucial step. It is extremely important to have a clue about what is going on behind the black box. It is therefore a handy tool when debugging the hardware. Notice bugs can also occur in the software, which is somewhat easier to troubleshoot. 
+*A tutorial task, getting to know how to make SoC and custom IPs. One thing to notice is that the generated system’s RTL can still be simulated by ModelSim just like any other RTLs. This is a crucial step. It is extremely important to have a clue about what is going on behind the black box. It is therefore a handy tool when debugging the hardware. Notice bugs can also occur in the software, which is somewhat easier to troubleshoot.*
 
 #### Tutorials
 
