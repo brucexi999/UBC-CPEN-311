@@ -175,7 +175,7 @@ Report the **average** number of cycles taken **for a single 32-bit integer mult
 
 ### Task 3: Custom instructions
 
-*A fairly easy task, instead of doing multiplication in software that used the all-purpose logic blocks inside the CPU, I simply modified the Nios II processor, adding an extra custom logic block inside the CPU (called custom instructions) to handle a specific task, in this case, multiplication. Because this logic block was designed for a sole duty, it was about 10 times faster compared to the general software method. Why? To do computing using the CPU, you need to move numbers around registers which costs more cycles than aplication-specific harware.*
+*A fairly easy task, instead of doing multiplication in software that used the all-purpose logic blocks inside the CPU, I simply modified the Nios II processor, adding an extra custom logic block inside the CPU (called custom instructions) to handle a specific task, in this case, multiplication. Because this logic block was designed for a sole duty, it was about 10 times faster compared to the general software method. Why? To do computing using the CPU, you need to move numbers around registers which costs more cycles than application-specific harware.*
 
 In this Task, you will implement a custom instruction, integrate it in the Nios II processor core, and measure the performance impact.
 
